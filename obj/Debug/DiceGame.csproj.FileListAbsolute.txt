@@ -1,0 +1,6 @@
+C:\Users\domin\RiderProjects\DiceGame\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+C:\Users\domin\RiderProjects\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\domin\RiderProjects\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\domin\RiderProjects\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\domin\RiderProjects\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\domin\RiderProjects\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
